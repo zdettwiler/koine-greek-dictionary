@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+
+h1	{
+	line-height: 150%;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+h3	{
+	font-size: 100%;
+}
+
+span.transliteration {
+	font-size: 50%;
+	color: grey;
+}
+
+p.strong {
+	font-size: 80%;
+	color: grey;
+}
+
+span.column {
+	display: block;
+	border: solid 2px #c0c0c0;
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	padding: 0.5em;
+}
